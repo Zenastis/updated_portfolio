@@ -1,0 +1,21 @@
+
+
+body {
+    background-image: url("https://content.fortune.com/wp-content/uploads/2019/07/GettyImages-1020752970-e1563589766704.jpg");
+}
+
+#devname {
+    text-align: center;
+}
+
+#pagelink {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 50px;
+}
+
+.card1 {
+    
+}
